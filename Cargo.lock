@@ -1228,7 +1228,7 @@ checksum = "f7531096570974c3a9dcf9e4b8e1cede1ec26cf5046219fb3b9d897503b9be59"
 [[package]]
 name = "evm"
 version = "0.27.0-axia"
-source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#ced62bbe89f7118f6d5f602b5071885c157f286f"
+source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#cb11360c65eedaeed7304ce609393e0c0fe6e817"
 dependencies = [
  "environmental",
  "ethereum",
@@ -1246,7 +1246,7 @@ dependencies = [
 [[package]]
 name = "evm-core"
 version = "0.27.1-axia"
-source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#ced62bbe89f7118f6d5f602b5071885c157f286f"
+source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#cb11360c65eedaeed7304ce609393e0c0fe6e817"
 dependencies = [
  "funty",
  "parity-scale-codec",
@@ -1257,7 +1257,7 @@ dependencies = [
 [[package]]
 name = "evm-gasometer"
 version = "0.27.0-axia"
-source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#ced62bbe89f7118f6d5f602b5071885c157f286f"
+source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#cb11360c65eedaeed7304ce609393e0c0fe6e817"
 dependencies = [
  "environmental",
  "evm-core",
@@ -1268,7 +1268,7 @@ dependencies = [
 [[package]]
 name = "evm-runtime"
 version = "0.27.0-axia"
-source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#ced62bbe89f7118f6d5f602b5071885c157f286f"
+source = "git+https://github.com/Axia-Tech/evm-v2.git?tag=v0.27.1-axia#cb11360c65eedaeed7304ce609393e0c0fe6e817"
 dependencies = [
  "environmental",
  "evm-core",
